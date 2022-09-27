@@ -8,10 +8,6 @@ import org.springframework.util.Assert;
 class PruebabackendApplicationTests {
 
 	@Test
-	void contextLoads() {
-	}
-
-	@Test
 	void testMain(){
 		String[] args=new String[1];
 		args[0]=new String("TestMain");
